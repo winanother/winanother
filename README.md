@@ -21,12 +21,12 @@
 - **Blue Screen** ‑ Windows kernel driver 漏洞研究  
 
 ### 📜 点单菜单 | Order Here
-<a class="btn" href="https://github.com/你的用户名/Repo1">repo1</a>
-<a class="btn" href="https://github.com/你的用户名/Repo2">repo2</a>
+<a class="btn" href="https://github.com/winanother/Repo1">repo1</a>
+<a class="btn" href="https://github.com/winanother/Repo2">repo2</a>
 <a class="btn" href="https://vallhalla.chat">Blog</a>
 
 ### 📊 实时指标 | Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&theme=react&hide_border=true&bg_color=00000000)
+![Stats](https://github-readme-stats.vercel.app/api?username=winanother&theme=react&hide_border=true&bg_color=00000000)
 
 <!-- 以下不改也行 -->
 <div align="center" class="noise">
