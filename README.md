@@ -24,9 +24,6 @@
 </div>
 <div class="scanline"></div>
 
-![123](https://camo.githubusercontent.com/1632ebce5380799ed72c227cdddfb8e5eb4d5a3386e8f109e05ca54d8931b470/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f737461626c65706172726f742e676966)
-
-![](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
 
 # Winanother
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=winanother)
